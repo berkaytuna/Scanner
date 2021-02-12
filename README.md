@@ -1,5 +1,5 @@
 # Scanner
-Standard Library <br> <br>
+Standard Library
 
 Scans and analyzes the image through attached camera.
 
